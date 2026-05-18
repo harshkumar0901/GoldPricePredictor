@@ -41,3 +41,12 @@ Handles nonlinear relationships
 Reduces overfitting
 Works well on tabular datasets
 Provides strong predictive performance
+
+
+How to Run the Project
+1. Clone the Repository
+   git clone https://github.com/harshkumar0901/GoldPricePredictor
+2. Install Dependencies
+   pip install numpy pandas matplotlib seaborn scikit-learn
+3. Run the Notebook
+   jupyter notebook gold.ipynb
