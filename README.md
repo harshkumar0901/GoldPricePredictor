@@ -44,9 +44,9 @@ Provides strong predictive performance
 
 
 How to Run the Project
-1. Clone the Repository
+1. Clone the Repository : 
    git clone https://github.com/harshkumar0901/GoldPricePredictor
-2. Install Dependencies
+2. Install Dependencies : 
    pip install numpy pandas matplotlib seaborn scikit-learn
-3. Run the Notebook
+3. Run the Notebook : 
    jupyter notebook gold.ipynb
